@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://twitter.com/kr40_in" target="blank"><img src="https://img.shields.io/twitter/follow/kr40_in?logo=twitter&style=for-the-badge" alt="kr40_in" /></a> </p>
 
-- 🔭 I’m currently working on **PageSync**
+- 🔭 I’m currently working on **PageSync.in**
 
 - 🌱 I’m currently learning **Svelte Kit, Redux, React-Query**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kr40](https://github.com/kr40)
 
-- 💬 Ask me about **Javascript, Svelte, CSS**
+- 💬 Ask me about **Javascript, Svelte, CSS, Arsenal FC, Cricket and E-Sports**
 
 - 📫 How to reach me **kr40.git@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/kr40/](https://www.linkedin.com/in/kr40/)
 
-- ⚡ Fun fact **I play lot of sports.**
+- ⚡ Fun fact **I play and follow lots of sports & I am a passionate gamer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
