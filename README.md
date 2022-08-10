@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/kr40_in" target="blank"><img src="https://img.shields.io/twitter/follow/kr40_in?logo=twitter&style=for-the-badge" alt="kr40_in" /></a> </p>
 
-- 🔭 I’m currently working on **PageSync.in, kr40.xyz**
+- 🔭 I’m currently working on **kr40.xyz**
 
-- 🌱 I’m currently learning **eCPPTv2, OSCP, Svelte Kit**
+- 🌱 I’m currently learning for **eCPPTv2, OSCP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kr40](https://github.com/kr40)
 
-- 💬 Ask me about **Javascript, Svelte, Python, Bash, Pentesting**
+- 💬 Ask me about **Python, Bash, Pentesting, CyberSecurity**
 
 - 📫 How to reach me **kr40.git@gmail.com**
 
