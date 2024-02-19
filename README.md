@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **PageSync, kr40.xyz, kartikeyarao.com**
 
-- 🌱 I’m currently learning **Python, C++, OSCP**
+- 🌱 I’m currently learning **Go, HTMX, SvelteKit**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kr40](https://github.com/kr40)
 
 - 📝 I regularly write articles on [https://kr40.xyz](https://kr40.xyz)
 
-- 💬 Ask me about **Red Teaming, Pentesting, CyberSecurity**
+- 💬 Ask me about **Red Teaming, Pentesting, CyberSecurity, Vim**
 
 - 📫 How to reach me **kr40.git@gmail.com**
 
